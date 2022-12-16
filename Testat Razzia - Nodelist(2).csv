@@ -1,0 +1,30 @@
+id,name,type,sector,party
+hpr,Heinrich Prinz Reuß,1,Adel,NA
+fh,Frank Heppner,1,Gastronomie,NA
+mf,Michael Fritsch,1,Politik,Die Basis
+me,Maximilian Eder,1,Militär,NA
+cw,Christian Wendler,1,Dienstleistung,AfD
+rhl,Ruth Hildegard L.,1,Politik,AfD
+rvp,Rüdiger von P.,1,Militär,NA
+pg,Paul G.,1,Recht,NA
+mvh,Marco van H.,1,Militär,NA
+mr,Melanie R.,1,Medizin,NA
+pw,Peter Wörner,1,Militär,NA
+rr,René R.,1,Unterhaltung,NA
+bmw,Birgit Malsack-Winkemann,1,Politik,AfD
+vp,Veteranenpool ,2,Militär,NA
+ksk,Kommando Spezialkräfte,2,Militär,NA
+afd,AfD,2,Politik,AfD
+db,Die Basis,2,Politik,Die Basis
+qd,Querdenker,2,Politik,NA
+vpn,Vereinte Patrioten,2,Politik,NA
+at,Ahrtal,2,Militär,NA
+pol,Politik,NA,NA,NA
+mil,Militär,NA,NA,NA
+med,Medizin,NA,NA,NA
+gas,Gastronomie,NA,NA,NA
+unt,Unterhaltung,NA,NA,NA
+plz,Polizei,NA,NA,NA
+re,Recht,NA,NA,NA
+ad,Adel,NA,NA,NA
+dl,Dienstleistung,NA,NA,NA
