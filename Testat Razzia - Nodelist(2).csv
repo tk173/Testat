@@ -1,30 +1,30 @@
-id,name,type,sector,party
-hpr,Heinrich Prinz Reuß,1,Adel,NA
-fh,Frank Heppner,1,Gastronomie,NA
-mf,Michael Fritsch,1,Politik,Die Basis
-me,Maximilian Eder,1,Militär,NA
-cw,Christian Wendler,1,Dienstleistung,AfD
-rhl,Ruth Hildegard L.,1,Politik,AfD
-rvp,Rüdiger von P.,1,Militär,NA
-pg,Paul G.,1,Recht,NA
-mvh,Marco van H.,1,Militär,NA
-mr,Melanie R.,1,Medizin,NA
-pw,Peter Wörner,1,Militär,NA
-rr,René R.,1,Unterhaltung,NA
-bmw,Birgit Malsack-Winkemann,1,Politik,AfD
-vp,Veteranenpool ,2,Militär,NA
-ksk,Kommando Spezialkräfte,2,Militär,NA
-afd,AfD,2,Politik,AfD
-db,Die Basis,2,Politik,Die Basis
-qd,Querdenker,2,Politik,NA
-vpn,Vereinte Patrioten,2,Politik,NA
-at,Ahrtal,2,Militär,NA
-pol,Politik,NA,NA,NA
-mil,Militär,NA,NA,NA
-med,Medizin,NA,NA,NA
-gas,Gastronomie,NA,NA,NA
-unt,Unterhaltung,NA,NA,NA
-plz,Polizei,NA,NA,NA
-re,Recht,NA,NA,NA
-ad,Adel,NA,NA,NA
-dl,Dienstleistung,NA,NA,NA
+id,name,type,sector
+hpr,Heinrich Prinz Reuß,1,Adel
+fh,Frank Heppner,1,Gastronomie
+mf,Michael Fritsch,1,Politik
+me,Maximilian Eder,1,Militär
+cw,Christian Wendler,1,Dienstleistung
+rhl,Ruth Hildegard L.,1,Politik
+rvp,Rüdiger von P.,1,Militär
+pg,Paul G.,1,Recht
+mvh,Marco van H.,1,Militär
+mr,Melanie R.,1,Medizin
+pw,Peter Wörner,1,Militär
+rr,René R.,1,Unterhaltung
+bmw,Birgit Malsack-Winkemann,1,Politik
+vp,Veteranenpool ,2,Militär
+ksk,Kommando Spezialkräfte,2,Militär
+afd,AfD,2,Politik
+db,Die Basis,2,Politik
+qd,Querdenker,2,Politik
+vpn,Vereinte Patrioten,2,Politik
+at,Ahrtal,2,Militär
+pol,Politik,2,Politik
+mil,Militär,2,Militär
+med,Medizin,2,Medizin
+gas,Gastronomie,2,Gastronomie
+unt,Unterhaltung,2,Unterhaltung
+plz,Polizei,2,Polizei
+re,Recht,2,Recht
+ad,Adel,2,Adel
+dl,Dienstleistung,2,Dienstleistung
